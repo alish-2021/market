@@ -1,0 +1,52 @@
+.btn-white {
+   min-width: 250px;
+   border: 2px solid $white;
+   transition: $trans;
+   border-radius: 10px;
+   text-align: center;
+   padding: 16px 25px;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 1.2;
+   @extend %ff1;
+   color: $white;
+   display: inline-block;
+   text-decoration: none;
+   &:hover {
+      background: $white;
+      color: $blue;
+   }
+}
+
+
+.btn-blue {
+   min-width: 250px;
+   border: 2px solid $blue;
+   transition: $trans;
+   border-radius: 10px;
+   text-align: center;
+   padding: 16px 25px;
+   font-weight: 700;
+   font-size: 14px;
+   line-height: 1.2;
+   @extend %ff1;
+   color: $blue;
+   display: inline-block;
+   text-decoration: none;
+   &:hover {
+      background: $blue;
+      color: $white;
+   }
+}
+
+.link-blue {
+   color: $blue;
+   transition: $trans;
+   text-transform: lowercase;
+   position: $rel;
+   display: inline-block;
+   bottom: 0;
+   text-decoration: none;
+   font-weight: 700; 
+   border-bottom: 1px solid $blue;
+}

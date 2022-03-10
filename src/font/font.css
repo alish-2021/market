@@ -1,0 +1,18 @@
+
+@font-face{font-family:'Exo 2';src:local('Exo 2 Light'),local('Exo-2-Light'),url('Exo2-Light.woff2') format('woff2'),url('Exo2-Light.woff') format('woff'),url('Exo2-Light.ttf') format('truetype');font-weight:300;font-style:normal}
+@font-face{font-family:'Exo 2';src:local('Exo 2 Regular'),local('Exo-2-Regular'),url('Exo2-Regular.woff2') format('woff2'),url('Exo2-Regular.woff') format('woff'),url('Exo2-Regular.ttf') format('truetype');font-weight:400;font-style:normal}
+@font-face{font-family:'Exo 2';src:local('Exo 2 Medium'),local('Exo-2-Medium'),url('Exo2-Medium.woff2') format('woff2'),url('Exo2-Medium.woff') format('woff'),url('Exo2-Medium.ttf') format('truetype');font-weight:500;font-style:normal}
+@font-face{font-family:'Exo 2';src:local('Exo 2 Semi Bold'),local('Exo-2-Semi-Bold'),url('Exo2-SemiBold.woff2') format('woff2'),url('Exo2-SemiBold.woff') format('woff'),url('Exo2-SemiBold.ttf') format('truetype');font-weight:600;font-style:normal}
+@font-face{font-family:'Exo 2';src:local('Exo 2 Bold'),local('Exo-2-Bold'),url('Exo2-Bold.woff2') format('woff2'),url('Exo2-Bold.woff') format('woff'),url('Exo2-Bold.ttf') format('truetype');font-weight:700;font-style:normal}
+
+@font-face{font-family:'Manrope ';src:local('Manrope  Thin'),local('Manrope--Thin'),url('Manrope-Thin.woff2') format('woff2'),url('Manrope-Thin.woff') format('woff'),url('Manrope-Thin.ttf') format('truetype');font-weight:100;font-style:normal}
+@font-face{font-family:'Manrope ';src:local('Manrope  Light'),local('Manrope--Light'),url('Manrope-Light.woff2') format('woff2'),url('Manrope-Light.woff') format('woff'),url('Manrope-Light.ttf') format('truetype');font-weight:300;font-style:normal}
+@font-face{font-family:'Manrope ';src:local('Manrope  Regular'),local('Manrope--Regular'),url('Manrope-Regular.woff2') format('woff2'),url('Manrope-Regular.woff') format('woff'),url('Manrope-Regular.ttf') format('truetype');font-weight:400;font-style:normal}
+@font-face{font-family:'Manrope ';src:local('Manrope  Medium'),local('Manrope--Medium'),url('Manrope-Medium.woff2') format('woff2'),url('Manrope-Medium.woff') format('woff'),url('Manrope-Medium.ttf') format('truetype');font-weight:500;font-style:normal}
+@font-face{font-family:'Manrope ';src:local('Manrope  Semi bold'),local('Manrope--Semi-bold'),url('Manrope-Semibold.woff2') format('woff2'),url('Manrope-Semibold.woff') format('woff'),url('Manrope-Semibold.ttf') format('truetype');font-weight:600;font-style:normal}
+@font-face{font-family:'Manrope ';src:local('Manrope  Bold'),local('Manrope--Bold'),url('Manrope-Bold.woff2') format('woff2'),url('Manrope-Bold.woff') format('woff'),url('Manrope-Bold.ttf') format('truetype');font-weight:700;font-style:normal}
+@font-face{font-family:'Manrope ';src:local('Manrope  Extra Bold'),local('Manrope--Extra-Bold'),url('Manrope-ExtraBold.woff2') format('woff2'),url('Manrope-ExtraBold.woff') format('woff'),url('Manrope-ExtraBold.ttf') format('truetype');font-weight:800;font-style:normal}
+
+
+
+

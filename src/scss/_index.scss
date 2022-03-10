@@ -1,0 +1,67 @@
+/* IndeX PagE ================================= */
+.products-block {
+   position: $rel;
+}
+
+.block-flex {
+   @extend %align-center;
+   & .link-blue {
+      margin-bottom: 30px;
+      margin-left: 18px;
+   }
+}
+.block-title {
+   color: #151515;
+   line-height: 1.2;
+   font-weight: 700;
+   font-size: 35px;
+   @extend %ff2;
+   padding-bottom: 15px;
+   position: $rel;
+   &:before {
+      position: $abs;
+      left: 0;
+      width: 50px;
+      height: 4px;
+      content: '';
+      bottom: 0;
+      background: $blue;
+   }
+}
+
+.categories {
+   position: $rel;
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+   grid-gap: 10px;
+   &.categories-slider {
+      & .slick-track {
+         grid-gap: 10px;
+         display: flex;
+         align-items: center;
+      }
+   }
+   &__wrap {
+   }
+
+   &__link {
+      display: block;
+      text-align: center;
+      padding: 5px 19px;
+      background: #F2F2F2;
+      border: 1px solid #D0D0D0;
+      box-sizing: border-box;
+      border-radius: 4px;
+      font-weight: 600;
+      font-size: 14px;
+      color: #151515;
+      text-decoration: none;
+      transition: $trans;
+      &:hover {
+         background-color: $blue;
+         border-color: $blue;
+         color: $white;
+      }
+   }
+}

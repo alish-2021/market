@@ -1,0 +1,29 @@
+/* SliDeR ============================== */
+.slick-track { @extend %between;}
+.slick-list {overflow: $overflow;}
+.slider-center {@extend %center-center}
+.categories-slider {
+   width: 99%;
+   & .slick-arrow {
+      position: absolute;
+      background: transparent;
+      border: none !important;
+      font-size: 0;
+      line-height: 0;
+      padding: 0;
+      width: 19px;
+      height: 19px;
+      background: url('/src/images/icon/prev.svg') no-repeat center;
+      background-size: contain;
+      z-index: 2;
+   }
+   .slick-arrow.slick-prev {
+      left: -7px; 
+   }
+   .slick-arrow.slick-next {
+      right: -7px;
+      transform: rotate(180deg);
+   }
+}
+ 
+ 
